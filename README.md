@@ -1,9 +1,8 @@
 # List of resources for Myanmar.
 
-### Myanmar Unicode
+## Myanmar Unicode
 
 - [Awesome Myanmar Unicode](https://github.com/khzaw/awesome-myanmar-unicode)
-- [Myanmar Names](https://github.com/L16H7/Myanmar_Names)   Open Source List of Myanmar(Burmese) Names for Male & Female Names  
 
 
 #### Detect
@@ -12,11 +11,11 @@
 |[myanmar-tools](https://github.com/googlei18n/myanmar-tools)|  C++, Java, and JavaScript  |    |   Detect the Zawgyi-One font encoding in C++, Java, and JavaScript |
 
 
-### Myanmar NLP
+## Myanmar NLP
 
 - [Awesome Myanmar NLP](https://github.com/swanhtet1992/awesome-myanmar-nlp)
 
-### Syllable-Break
+#### Syllable-Break
 
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
@@ -30,8 +29,8 @@
 |  [ReSegment](https://github.com/swanhtet1992/ReSegment)  | Python   |    |    |
 |  [Myanmar Text Breaker](https://github.com/eimg/myanmar-text-breaker)  | JavaScript   | [MIT](https://opensource.org/licenses/MIT)    |  Syllable and word, breaker/boundary-segmentation for Myanmar text in JavaScript  |
 
-  
-### Sorting
+
+#### Sorting
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 | [myanmar-sort](https://github.com/mapmeld/myanmar-sort)   | Ruby   |    | Big module for NodeJS to sort any Myanmar/Burmese tex   |
@@ -39,11 +38,11 @@
 
 ### Dataset
 - [Awesome-Myanmar-Wordlists-Dictionary-Collection](https://github.com/chanmratekoko/Awesome-Myanmar-Wordlists-Dictionary-Collection)
-
+- [Myanmar Names](https://github.com/L16H7/Myanmar_Names)   Open Source List of Myanmar(Burmese) Names for Male & Female Names  
 
 ## Projects
 
-### Calendar
+#### Calendar
 
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
@@ -51,7 +50,7 @@
 | [Myanmar Calendar & Algorithm](https://github.com/chanmratekoko/mmcalendar)| Java Library|  [MIT](https://opensource.org/licenses/MIT)  | Myanmar Calendar library for Android and Java applications.  |
 
 
-### Dictionary
+#### Dictionary
 
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
@@ -70,7 +69,7 @@
 | [Myanmar-Phone-Number](https://github.com/chanmratekoko/Myanmar-Phone-Number) |  Java  |    |  Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.  |
 | [mm_phonenumber_swift](https://github.com/wailynn-wlz/mm_phonenumber_swift)   |  Swift   |    | Swift port of https://github.com/Melomap/mm_phonenumber to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
 
-### Myanmar Tax Calculator
+#### Myanmar Tax Calculator
 
 ### Project with API
 | Name        | Language | License | Description  |
@@ -78,13 +77,13 @@
 |  [Myanmar Postal Code API](https://github.com/herzcthu/mypostalcode)  | PHP  |    |  Complete API for myanmar postal code lookup using township or post office name.  |
 
 
-### Machine Learning
+## Machine Learning
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 |  [Myanmar News Classification System](https://github.com/ayehninnkhine/MyanmarNewsClassificationSystem)  | Java |    |    |
 |  [Burmese Text Classifier](https://github.com/eimg/burmese-text-classifier)  | JavaScript   | [MIT](https://opensource.org/licenses/MIT)   |  A neural network based text classification system for Burmese  |
 
-### Programming Language, Compiler, Virtual Machine, IDE, Editor
+## Programming Language, Compiler, Virtual Machine, IDE, Editor
 
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
@@ -97,4 +96,3 @@
 - [Kanaung](https://github.com/kanaung)
 - [Phandeeyar](https://github.com/phandeeyar)
 - [Foss Myanmar](https://github.com/fossmyanmar)
- 
