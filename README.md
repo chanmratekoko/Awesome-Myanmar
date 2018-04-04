@@ -68,6 +68,8 @@
 | ------------- |-------------|-------------|-------------|
 | [Myanmar-Phone-Number](https://github.com/chanmratekoko/Myanmar-Phone-Number) |  Java  |    |  Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.  |
 | [mm_phonenumber_swift](https://github.com/wailynn-wlz/mm_phonenumber_swift)   |  Swift   |    | Swift port of https://github.com/Melomap/mm_phonenumber to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
+| [myanmar-phonenumber-js](https://github.com/kaungmyatlwin/myanmar-phonenumber-js)   |  JavaScript   |    | Javascript module port (for browsers and node) of (https://github.com/Melomap/mm_phonenumber) to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
+
 
 #### Myanmar Tax Calculator
 
