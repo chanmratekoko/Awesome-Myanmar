@@ -1,6 +1,6 @@
 # List of resources for Myanmar.
 
-## Myanmar Unicode
+## Unicode
 
 - [Awesome Myanmar Unicode](https://github.com/khzaw/awesome-myanmar-unicode)
 
@@ -34,6 +34,9 @@
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 | [myanmar-sort](https://github.com/mapmeld/myanmar-sort)   | Ruby   |    | Big module for NodeJS to sort any Myanmar/Burmese tex   |
+|  [Myanmar-Sorting](https://github.com/chanmratekoko/Myanmar-Sorting)  |  Java  |    |  Myanmar text sort using ICU library.  |
+
+
 
 
 ### Dataset
@@ -56,22 +59,22 @@
 | ------------- |-------------|-------------|-------------|
 |  [EN-MM-Geology-Dictionary](https://github.com/winhtaikaung/EN-MM-Geology-Dictionary)  |  Android  |    | English To Myanmar Mobile Geology Dictionary   |
 
-#### Myanmar NRC
+#### NRC
 
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 | [Myanmar-NRC-Parser](https://github.com/chanmratekoko/Myanmar-NRC-Parser)|  Java  |    |  Myanmar National Registration Card's Parser  |
 
 
-#### Myanmar Phone Number
+#### Phone Number
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 | [Myanmar-Phone-Number](https://github.com/chanmratekoko/Myanmar-Phone-Number) |  Java  |    |  Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.  |
 | [mm_phonenumber_swift](https://github.com/wailynn-wlz/mm_phonenumber_swift)   |  Swift   |    | Swift port of https://github.com/Melomap/mm_phonenumber to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
-| [myanmar-phonenumber-js](https://github.com/kaungmyatlwin/myanmar-phonenumber-js)   |  JavaScript   |    | Javascript module port (for browsers and node) of (https://github.com/Melomap/mm_phonenumber) to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
+| [myanmar-phonenumber-js](https://github.com/kaungmyatlwin/myanmar-phonenumber-js)   |  JavaScript   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)    | Javascript module port (for browsers and node) of (https://github.com/Melomap/mm_phonenumber) to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
 
 
-#### Myanmar Tax Calculator
+#### Tax Calculator
 
 ### Project with API
 | Name        | Language | License | Description  |
@@ -93,7 +96,7 @@
 |    |    |    |    |
 
 
-## Community
+## Myanmar Community
 
 - [Kanaung](https://github.com/kanaung)
 - [Phandeeyar](https://github.com/phandeeyar)
