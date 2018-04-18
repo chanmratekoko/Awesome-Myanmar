@@ -15,6 +15,7 @@
 
 - [Awesome Myanmar NLP](https://github.com/swanhtet1992/awesome-myanmar-nlp)
 
+
 #### Syllable-Break
 
 | Name        | Language | License | Description  |
@@ -38,10 +39,12 @@
 
 
 
-
 ### Dataset
 - [Awesome-Myanmar-Wordlists-Dictionary-Collection](https://github.com/chanmratekoko/Awesome-Myanmar-Wordlists-Dictionary-Collection)
 - [Myanmar Names](https://github.com/L16H7/Myanmar_Names)   Open Source List of Myanmar(Burmese) Names for Male & Female Names  
+- [mymr-lang-resources](https://github.com/trhura/mymr-lang-resources) Freely reusable language resources for Myanmar
+- [Place codes (Pcodes)](http://themimu.info/place-codes)
+
 
 ## Projects
 
@@ -58,6 +61,7 @@
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 |  [EN-MM-Geology-Dictionary](https://github.com/winhtaikaung/EN-MM-Geology-Dictionary)  |  Android  |    | English To Myanmar Mobile Geology Dictionary   |
+
 
 #### NRC
 
@@ -76,6 +80,7 @@
 
 #### Tax Calculator
 
+
 ### Project with API
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
@@ -87,6 +92,7 @@
 | ------------- |-------------|-------------|-------------|
 |  [Myanmar News Classification System](https://github.com/ayehninnkhine/MyanmarNewsClassificationSystem)  | Java |    |    |
 |  [Burmese Text Classifier](https://github.com/eimg/burmese-text-classifier)  | JavaScript   | [MIT](https://opensource.org/licenses/MIT)   |  A neural network based text classification system for Burmese  |
+
 
 ## Programming Language, Compiler, Virtual Machine, IDE, Editor
 
