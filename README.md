@@ -46,6 +46,14 @@
 - [Place codes (Pcodes)](http://themimu.info/place-codes)
 
 
+
+### Component
+| Name        | Language | License | Description  |
+| ------------- |-------------|-------------|-------------|
+|  [React Myanmar Text](https://github.com/lwinkyawmyat/react-mm-text)  |  JavaScript  |   [MIT](https://opensource.org/licenses/MIT)  |  A small react component library to solve the complex myanmar font problem.  |
+
+
+
 ## Projects
 
 #### Calendar
