@@ -25,10 +25,12 @@
 | [sylbreak](https://github.com/ye-kyaw-thu/sylbreak)   | Shell, Python   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)   |  Syllable segmentation tool for Myanmar language (Burmese) by Ye.  |
 | [myPOS](https://github.com/ye-kyaw-thu/myPOS)   |  Shell, Python  |    | myPOS (Myanmar Part-of-Speech) Corpus for Myanmar NLP Research and Developments  |
 |  [MyanmarParser-Py](https://github.com/thantthet/MyanmarParser-Py)  | Python   |  LGPL   |  Burmese (Myanmar) syllable level segmentation with regex.  |
-|  [MyanmarParser-C](https://github.com/thantthet/MyanmarParser-C)  | C   |  LGPL   |    |
+|  [MyanmarParser-C](https://github.com/thantthet/MyanmarParser-C)  | C   |  LGPL   |  A C implementation to break down (currently only) Burmese syllable  |
 |  [myanmar-tokenizer](https://github.com/mutour/myanmar-tokenizer)  |    |    | A Rule-based Syllable Segmentation of Myanmar Text  |
 |  [ReSegment](https://github.com/swanhtet1992/ReSegment)  | Python   |    |    |
 |  [Myanmar Text Breaker](https://github.com/eimg/myanmar-text-breaker)  | JavaScript   | [MIT](https://opensource.org/licenses/MIT)    |  Syllable and word, breaker/boundary-segmentation for Myanmar text in JavaScript  |
+|  [Zawgyi-Segmentation](https://github.com/khantthulinn/Zawgyi-Segmentation)  | Objective-C   |    |    |
+|  [Myanmar Word Segmentation Tool](https://github.com/stevenay/myan-word-breaker)  | Python   | [MIT](https://opensource.org/licenses/MIT)    |  Word segmentation tool for Myanmar sentence. [Demo](https://flask-py-word-breaker.herokuapp.com/)  |
 
 
 #### Sorting
