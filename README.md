@@ -32,11 +32,16 @@
 |  [Zawgyi-Segmentation](https://github.com/khantthulinn/Zawgyi-Segmentation)  | Objective-C   |    |    |
 |  [Myanmar Word Segmentation Tool](https://github.com/stevenay/myan-word-breaker)  | Python   | [MIT](https://opensource.org/licenses/MIT)    |  Word segmentation tool for Myanmar sentence. [Demo](https://flask-py-word-breaker.herokuapp.com/)  |
 
+#### Text Processing
+| Name        | Language | License | Description  |
+| ------------- |-------------|-------------|-------------|
+|  [Python-Myanmar](https://github.com/trhura/python-myanmar)  | Python   |  [MIT](https://opensource.org/licenses/MIT)  |  Python library for Myanmar text processing, such as syllabification, romanization, encoding conversion, etc. |
+
 
 #### Sorting
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
-| [myanmar-sort](https://github.com/mapmeld/myanmar-sort)   | Ruby   |    | Big module for NodeJS to sort any Myanmar/Burmese tex   |
+| [myanmar-sort](https://github.com/mapmeld/myanmar-sort)   | JavaScript   |    | Big module for NodeJS to sort any Myanmar/Burmese tex   |
 |  [Myanmar-Sorting](https://github.com/chanmratekoko/Myanmar-Sorting)  |  Java  |    |  Myanmar text sort using ICU library.  |
 
 
@@ -47,6 +52,7 @@
 - [mymr-lang-resources](https://github.com/trhura/mymr-lang-resources) Freely reusable language resources for Myanmar
 - [Place codes (Pcodes)](http://themimu.info/place-codes)
 - [YBS Data](https://github.com/thantthet/YBS-Data) Yangon Bus Service Data is improved update-to-date version of official lastest YBS data release.
+- [Myanmar websites url](https://github.com/cruncheranalyzer/MyanmarData) collection.
 
 
 
