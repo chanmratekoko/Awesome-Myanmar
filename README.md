@@ -31,6 +31,7 @@
 |  [Myanmar Text Breaker](https://github.com/eimg/myanmar-text-breaker)  | JavaScript   | [MIT](https://opensource.org/licenses/MIT)    |  Syllable and word, breaker/boundary-segmentation for Myanmar text in JavaScript  |
 |  [Zawgyi-Segmentation](https://github.com/khantthulinn/Zawgyi-Segmentation)  | Objective-C   |    |    |
 |  [Myanmar Word Segmentation Tool](https://github.com/stevenay/myan-word-breaker)  | Python   | [MIT](https://opensource.org/licenses/MIT)    |  Word segmentation tool for Myanmar sentence. [Demo](https://flask-py-word-breaker.herokuapp.com/)  |
+|  [Myanmar Collation Stats](https://github.com/minthanthtoo/myanmar-collation-stats)  | Java   |    |  Myanmar lexicon analyzer - Sorting and Segmentation  |
 
 #### Text Processing
 | Name        | Language | License | Description  |
@@ -93,6 +94,12 @@
 | [Myanmar-Phone-Number](https://github.com/chanmratekoko/Myanmar-Phone-Number) |  Java  |    |  Myanmar Mobile Phone Numbers Validator Check Telecom Operator's name Sanitize mobile numbers and mobile network types.  |
 | [mm_phonenumber_swift](https://github.com/wailynn-wlz/mm_phonenumber_swift)   |  Swift   |    | Swift port of https://github.com/Melomap/mm_phonenumber to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
 | [myanmar-phonenumber-js](https://github.com/kaungmyatlwin/myanmar-phonenumber-js)   |  JavaScript   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)    | Javascript module port (for browsers and node) of (https://github.com/Melomap/mm_phonenumber) to check valid myanmar mobile numbers, get mobile operator's name, sanitize mobile numbers and get mobile network types.   |
+
+#### Myanmar/Burmese transcriptions
+
+| Name        | Language | License | Description  |
+| ------------- |-------------|-------------|-------------|
+|  [mya2rom](https://github.com/myanmaropenwordnet/mya2rom)  | JavaScript  |    |  Myanmar/Burmese script to romanised transcriptions |
 
 
 #### Tax Calculator
