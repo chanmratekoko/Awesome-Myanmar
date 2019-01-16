@@ -67,6 +67,13 @@
 
 ## Projects
 
+
+#### Text Editor Extensions
+
+| Name        | Language | License | Description  |
+| ------------- |-------------|-------------|-------------|
+| [Uni <-> Zawgyi Converter](https://github.com/kaungmyatlwin/unizawgyi-converter)| Javascript |  MIT  |  Unizawgyi-converter is an VSCode extension from (and to) Zawgyi or Unicode. Based on `knayi-myscript`. |
+
 #### Calendar
 
 | Name        | Language | License | Description  |
