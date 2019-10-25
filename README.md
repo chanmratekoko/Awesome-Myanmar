@@ -14,7 +14,7 @@
 ## Myanmar NLP
 
 - [Awesome Myanmar NLP](https://github.com/swanhtet1992/awesome-myanmar-nlp)
-
+- [Myanmar language processing tools (MIT License)](https://github.com/MyanmarOnlineAdvertising/myanmar_language_tools)
 
 #### Syllable-Break
 
