@@ -55,6 +55,7 @@
 
 ### Dataset
 - [Awesome-Myanmar-Wordlists-Dictionary-Collection](https://github.com/chanmratekoko/Awesome-Myanmar-Wordlists-Dictionary-Collection)
+- [myth](https://github.com/alvations/myth) Myanmar and Thai Language Resources
 - [BHDD](https://github.com/baseresearch/BHDD) Burmese Handwritten Digits Dataset (inspired by MNIST dataset)
 - [Myanmar Names](https://github.com/L16H7/Myanmar_Names)   Open Source List of Myanmar(Burmese) Names for Male & Female Names  
 - [mymr-lang-resources](https://github.com/trhura/mymr-lang-resources) Freely reusable language resources for Myanmar
