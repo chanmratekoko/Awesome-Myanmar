@@ -1,5 +1,9 @@
 # List of resources for Myanmar.
 
+## Myanmar Covid-19 Resources
+- [Awesome Myanmar Covid-19 Resources](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources)
+
+
 ## Unicode
 
 - [Awesome Myanmar Unicode](https://github.com/khzaw/awesome-myanmar-unicode)
