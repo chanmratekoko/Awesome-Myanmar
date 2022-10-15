@@ -41,6 +41,7 @@
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 |  [Python-Myanmar](https://github.com/trhura/python-myanmar)  | Python   |  [MIT](https://opensource.org/licenses/MIT)  |  Python library for Myanmar text processing, such as syllabification, romanization, encoding conversion, etc. |
+|  [Pyidaungsu](https://github.com/kaunghtetsan275/pyidaungsu)  | Python   |  [MIT](https://opensource.org/licenses/MIT)  |  Python library for Myanmar language. Useful in Natural Language Processing and text preprocessing for Myanmar language. |
 
 
 #### Sorting
