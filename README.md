@@ -99,6 +99,7 @@
 | Name        | Language | License | Description  |
 | ------------- |-------------|-------------|-------------|
 |  [EN-MM-Geology-Dictionary](https://github.com/winhtaikaung/EN-MM-Geology-Dictionary)  |  Android  |    | English To Myanmar Mobile Geology Dictionary   |
+|  [Tipitaka Pali-Myanmar Dictionary](https://github.com/pndaza/tipitaka_abidan_cross_platform)  |  Dart  |    | Tipitaka Pali Myanmar Dictionary   |
 
 
 #### NRC
